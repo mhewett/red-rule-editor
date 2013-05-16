@@ -1,0 +1,2224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US" dir="ltr">
+<head>
+  <base href="http://www.voiceboks.com/community/" />
+
+  
+    
+
+      <title>voiceBoks - The Voice of Parenthood</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="en_US" />
+<meta name="description" content="A community for parents and all things related to parenthood. voiceBoks - The Online Community for Parents" />
+<meta name="keywords" content="parenting community, parent forum, mom blogs, motherhood,mom,community,mommy,blog,giveaways,reviews,baby,infant,children,parenting,parent,toys,boys,girls,mum,military,wife,wives,kids,mommy bloggers, mom community, social, network, social network for moms, mom blogs, parenting community, forum for parents, parenting forum, mommy blogs, daddy sites, dad site, community for dads, motherhood" />
+
+
+      <link href="/community/application/css.php?request=application/themes/snowbot/theme.css&amp;c=284" media="screen" rel="stylesheet" type="text/css" />
+<link href="/favicon.ico?c=284" rel="favicon" type="image/x-icon" />
+<link href="/community/application/modules/List/externals/styles/list_tooltip.css?c=284" media="screen" rel="stylesheet" type="text/css" />
+<link href="/community/application/css.php?request=application/modules/Siteslideshow/externals/styles/slideshow.css&amp;c=284" media="screen" rel="stylesheet" type="text/css" />
+<link href="/community/sitelike/index/likesettingcss?c=284" media="screen" rel="stylesheet" type="text/css" />
+<link href="/community/application/modules/List/externals/styles/style_list.css?c=284" media="screen" rel="stylesheet" type="text/css" />
+<link href="/community/application/css.php?request=/application/modules/Socialengineaddon/externals/styles/style_photolightbox.css&amp;c=284" media="screen" rel="stylesheet" type="text/css" />
+  
+
+    
+    <script type="text/javascript">
+      </script>
+    <script type="text/javascript" src="/community/externals/mootools/mootools-1.2.5-core-yc.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/mootools/mootools-1.2.5.1-more-yc.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/chootools/chootools.js?c=284"></script>
+<script type="text/javascript" src="/community/application/modules/Core/externals/scripts/core.js?c=284"></script>
+<script type="text/javascript" src="/community/application/modules/User/externals/scripts/core.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/smoothbox/smoothbox4.js?c=284"></script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    Date.setServerOffset('Mon, 23 Jul 2012 3:22:15 +0000');
+    
+    en4.orientation = 'ltr';
+    en4.core.environment = 'production';
+    en4.core.language.setLocale('en_US');
+    en4.core.setBaseUrl('/community/');
+    en4.core.staticBaseUrl = '/community/';
+    en4.core.loader = new Element('img', {src: en4.core.staticBaseUrl + 'application/modules/Core/externals/images/loading.gif'});
+    
+            if( false ) {
+      en4.core.runonce.add(function() {
+        en4.core.dloader.attach();
+      });
+    }
+    
+        //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+en4.core.language.addData({"now":"now","in a few seconds":"in a few seconds","a few seconds ago":"a few seconds ago","%s minute ago":["%s minute ago","%s minutes ago"],"in %s minute":["in %s minute","in %s minutes"],"%s hour ago":["%s hour ago","%s hours ago"],"in %s hour":["in %s hour","in %s hours"],"%s at %s":"%s at %s","Save":"Save","Cancel":"Cancel","delete":"delete"});    //]]>
+</script>
+<script type="text/javascript" src="/community/application/modules/Activity/externals/scripts/core.js?c=284"></script>
+<script type="text/javascript" 0="defer">
+    //<![CDATA[
+
+if (!$type(translate_facebookse))
+    var translate_facebookse = {};
+    translate_facebookse['No Feed items to display. Try'] = 'No Feed items to display. Try';
+		
+		translate_facebookse['refreshing'] = 'refreshing';
+
+   translate_facebookse['What\'s on your mind?'] = "What's on your mind?";
+
+   translate_facebookse['Your Facebook status could not be updated. Please try again.'] = 'Your Facebook status could not be updated. Please try again.';
+
+   translate_facebookse['No such Facebook friends found.'] = 'No such Facebook friends found.';
+
+   translate_facebookse['Next'] = 'Next';
+	translate_facebookse['First'] = 'First';	
+   
+	translate_facebookse['Prev'] = 'Prev';    //]]>
+</script>
+<script type="text/javascript" 0="defer">
+    //<![CDATA[
+
+if (!$type(translate_facebookse))
+    var translate_facebookse = {};
+    translate_facebookse['No Feed items to display. Try'] = 'No Feed items to display. Try';
+		
+		translate_facebookse['refreshing'] = 'refreshing';
+
+   translate_facebookse['What\'s on your mind?'] = "What's on your mind?";
+
+   translate_facebookse['Your Facebook status could not be updated. Please try again.'] = 'Your Facebook status could not be updated. Please try again.';
+
+   translate_facebookse['No such Facebook friends found.'] = 'No such Facebook friends found.';
+
+   translate_facebookse['Next'] = 'Next';
+	translate_facebookse['First'] = 'First';	
+   
+	translate_facebookse['Prev'] = 'Prev';
+  translate_facebookse['See More'] = 'See More';
+  translate_facebookse['on'] = 'on';
+
+	translate_facebookse['Just Now'] = 'Just Now';
+  
+  translate_facebookse['Minute'] = 'Minute';
+
+  translate_facebookse['Minutes'] = 'Minutes';
+
+  translate_facebookse['Hour'] = 'Hour';
+
+  translate_facebookse['Hours'] = 'Hours';
+
+  translate_facebookse['Day'] = 'Day';
+
+  translate_facebookse['Days'] = 'Days';
+
+  translate_facebookse['Week'] = 'Week';
+
+  translate_facebookse['Weeks'] = 'Weeks';
+
+  translate_facebookse['Month'] = 'Month';
+
+  translate_facebookse['Months'] = 'Months';
+
+  translate_facebookse['Year'] = 'Year';
+
+  translate_facebookse['Years'] = 'Years';
+
+  translate_facebookse['Century'] = 'Century';
+  
+  translate_facebookse['Like'] = 'Like';
+
+  translate_facebookse['Comment'] = 'Comment';
+
+  translate_facebookse['Ago'] = 'Ago'; 
+
+  translate_facebookse['Centuries'] = 'Centuries';     //]]>
+</script>
+<script type="text/javascript" src="application/modules/Semods/externals/scripts/semods.js?c=284"></script>
+<script type="text/javascript" src="application/modules/Sitelike/externals/scripts/core.js?c=284"></script>
+<script type="text/javascript" src="/community/application/modules/Socialengineaddon/externals/scripts/core.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/moolasso/Lasso.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/moolasso/Lasso.Crop.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/autocompleter/Observer.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/autocompleter/Autocompleter.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/autocompleter/Autocompleter.Local.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/autocompleter/Autocompleter.Request.js?c=284"></script>
+<script type="text/javascript" src="/community/externals/tagger/tagger.js?c=284"></script>
+<script type="text/javascript" src="/community/application/modules/Socialengineaddon/externals/scripts/lightBox.js?c=284"></script>
+<script type="text/javascript">
+    //<![CDATA[
+      var activityfeed_lightbox = '0';
+      var flag = '0';
+         //]]>
+</script>
+<script type="text/javascript" src="application/modules/Facebooksepage/externals/scripts/facebookse.js?c=284"></script>
+<script type="text/javascript">
+    //<![CDATA[
+			var fbappid = '183202131733976';
+      var enable_fbpagemodule = '1';
+			    //]]>
+</script>
+<script type="text/javascript" src="application/modules/Facebookse/externals/scripts/core.js?c=284"></script>
+<script type="text/javascript">
+    //<![CDATA[
+			var enable_likemodule = '1';
+			var enable_likeintsetting = '1';
+      var enable_fbpagemodule = '1';
+			var enable_fboldversion = '';
+			var fbappid = '183202131733976';
+			var local_language = 'en_US';
+			var fbcommentboxhtml;
+    			window.addEvent('domready', function () { 
+    			 if (0 != 0 && 0 == 1 && $('comments')) {
+    			  $('comments').innerHTML = '';
+    			  var url = en4.core.baseUrl + 'widget/index/mod/facebookse/name/facebookse-comments'; 
+    			  var req = new Request.HTML({
+              'url' : url,
+              'data' : { 
+                'task': '1', 
+                'format' : 'html',
+                'subject' : en4.core.subject.guid,
+                'curr_url':'http://www.voiceboks.com/community/',
+                'width': '500',
+                'color': 'lignt',
+                'comment_setting': '0',
+                'comment_privacy': '1',
+                'module_type': 'home'  
+                
+              },
+              onSuccess : function(responseTree, responseElements, responseHTML, responseJavaScript) { 
+    			       $('comments').removeClass('comments');
+    			       fbcommentboxhtml = responseHTML;
+    			       $('comments').innerHTML = responseHTML;
+    			       if (window.callFBParse)
+    			         setTimeout('callFBParse();', 50);
+                   
+     			    
+}  
+            }); 
+            req.send();
+          }
+    	   });
+      
+		
+			    //]]>
+</script>
+
+  
+  
+    
+  
+  
+</head>
+<body id="global_page_core-index-index">
+  <div id="global_header">
+    <div class="layout_page_header">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_menu_mini">
+<div id='core_menu_mini_menu'>
+    <ul>
+              <li><a  href="http://www.voiceboks.com/community/pages/purchasecart" class="menu_core_mini custom_472">Make a Purchase</a></li>
+          <li><a  href="/community/likes" class="menu_core_mini core_main_sitelike">Favorites</a></li>
+          <li><a  href="/community/login/return_url/64-L2NvbW11bml0eS8%3D" class="menu_core_mini core_mini_auth">Sign In</a></li>
+          <li><a  href="/community/signup" class="menu_core_mini core_mini_signup">Sign Up</a></li>
+          </ul>
+</div>
+
+
+<script type='text/javascript'>
+  var notificationUpdater;
+
+  en4.core.runonce.add(function(){
+    if($('global_search_field')){
+      new OverText($('global_search_field'), {
+        poll: true,
+        pollInterval: 500,
+        positionOptions: {
+          position: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+          edge: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+          offset: {
+            x: ( en4.orientation == 'rtl' ? -4 : 4 ),
+            y: 2
+          }
+        }
+      });
+    }
+
+    if($('notifications_markread_link')){
+      $('notifications_markread_link').addEvent('click', function() {
+        //$('notifications_markread').setStyle('display', 'none');
+        en4.activity.hideNotifications('0 Updates');
+      });
+    }
+
+      });
+
+
+  var toggleUpdatesPulldown = function(event, element, user_id) {
+    if( element.className=='updates_pulldown' ) {
+      element.className= 'updates_pulldown_active';
+      showNotifications();
+    } else {
+      element.className='updates_pulldown';
+    }
+  }
+
+  var showNotifications = function() {
+    en4.activity.updateNotifications();
+    new Request.HTML({
+      'url' : en4.core.baseUrl + 'activity/notifications/pulldown',
+      'data' : {
+        'format' : 'html',
+        'page' : 1
+      },
+      'onComplete' : function(responseTree, responseElements, responseHTML, responseJavaScript) {
+        if( responseHTML ) {
+          // hide loading icon
+          if($('notifications_loading')) $('notifications_loading').setStyle('display', 'none');
+
+          $('notifications_menu').innerHTML = responseHTML;
+          $('notifications_menu').addEvent('click', function(event){
+            event.stop(); //Prevents the browser from following the link.
+
+            var current_link = event.target;
+            var notification_li = $(current_link).getParent('li');
+
+            // if this is true, then the user clicked on the li element itself
+            if( notification_li.id == 'core_menu_mini_menu_update' ) {
+              notification_li = current_link;
+            }
+
+            var forward_link;
+            if( current_link.get('href') ) {
+              forward_link = current_link.get('href');
+            } else{
+              forward_link = $(current_link).getElements('a:last-child').get('href');
+            }
+
+            if( notification_li.get('class') == 'notifications_unread' ){
+              notification_li.removeClass('notifications_unread');
+              en4.core.request.send(new Request.JSON({
+                url : en4.core.baseUrl + 'activity/notifications/markread',
+                data : {
+                  format     : 'json',
+                  'actionid' : notification_li.get('value')
+                },
+                onSuccess : function() {
+                  window.location = forward_link;
+                }
+              }));
+            } else {
+              window.location = forward_link;
+            }
+          });
+        } else {
+          $('notifications_loading').innerHTML = 'You have no new updates.';
+        }
+      }
+    }).send();
+  };
+
+  /*
+  function focusSearch() {
+    if(document.getElementById('global_search_field').value == 'Search') {
+      document.getElementById('global_search_field').value = '';
+      document.getElementById('global_search_field').className = 'text';
+    }
+  }
+  function blurSearch() {
+    if(document.getElementById('global_search_field').value == '') {
+      document.getElementById('global_search_field').value = 'Search';
+      document.getElementById('global_search_field').className = 'text suggested';
+    }
+  }
+  */
+</script></div>
+
+<div class="generic_layout_container layout_core_html_block">
+<center><table><tr><th><a href="http://www.voiceboks.com/"><img src="http://www.voiceboks.com/community/public/admin/logofinalnewvb%20copy.png"></a></th><th>&nbsp &nbsp &nbsp </th><th><center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8590470356810968";
+/* GroupProfileHead */
+google_ad_slot = "5836326971";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center></th></tr></table></center></div>
+
+<div class="generic_layout_container layout_supermenu_supermenu_main">
+<div class="layout_core_menu_main">
+<ul class="navigation supermenu_dropdownMenu" id="dropdownMenu" >
+        
+    <li class="active main_sub_content">
+                <a  href="/community/index/home"><span>Home</span></a>                        <ul>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/An-Online-Community-and-Social-Network-for-Moms" target="">Testimonials</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class="">
+                <a  href="/community/topusers"><span>Got Points?</span></a>                    </li>
+        
+    <li class=" main_sub_content">
+                <a  href="/community/badges"><span>Accolades</span></a>                        <ul>
+                                <li class="">
+                            <a  href="/community/badges/browse">Browse Badges</a>                                        </li>
+                                <li class="sub_icon">
+                            <a href="http://www.voiceboks.com/community/pages/current-contests" target="">2012 Top 10 Foodie Blogs</a>                                                            <ul>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/NotYourOrdinaryRecipes" target="">Not Your Ordinary Recipes</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/chic-foodie" target="">Chic Foodie</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/mysideoflife" target="">My Side of Life</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/addictedtorecipes" target="">Addicted to Recipes</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/mentalchew" target="">Mental Chew</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/notimeforteaparties" target="">No Time for Tea Parties</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/pamelasheavenlytreats" target="">Pamela's Heavenly Treats</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/fivelittlechefs" target="">Five Little Chefs</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/a-little-nosh" target="">A Little Nosh</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/hezzid" target="">Hezzi-D's Books and Cooks</a>                                    </li>
+                                                                </ul>
+                                        </li>
+                                <li class="">
+                            <a  href="/community/badges/award/browse/action/browse">All Awarded Members</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class=" main_sub_content">
+                <a  href="/community/listingitems"><span>Directory</span></a>                        <ul>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/abcs-of-me" target="">ABC's of Me</a>                                        </li>
+                                <li class="sub_icon">
+                            <a  href="/community/listingitems">Parent Blogs/Sites</a>                                                            <ul>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/listingitems/35/Foodie-Moms" target="">Foodie Moms</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/listingitems/73/How-To-Tips" target="">How To/Tips</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/listingitems/1/Stay-at-Home-Moms" target="">Stay-at-Home Moms</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/listingitems/6/Stay-at-Home-Dads" target="">Stay-at-Home Dads</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/listingitems/16/Working-Parents" target="">Working Parents</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/listingitems" target="">More</a>                                    </li>
+                                                                </ul>
+                                        </li>
+                                <li class="sub_icon">
+                            <a href="http://www.voiceboks.com/community/pages/facebookpagesbyparentbloggers" target="">Social Network Lists</a>                                                            <ul>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/facebookpagesbyparentbloggers" target="">Facebook Pages</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.voiceboks.com/community/pages/twitterforparents" target="">Tweeps and Twitterians</a>                                    </li>
+                                                                </ul>
+                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/listingitems/134/Guest-Posts" target="">Guest Posts</a>                                        </li>
+                                <li class="">
+                            <a  href="/community/listingitems/index">Browse Directory</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class=" main_sub_content">
+                <a  href="/community/blogs"><span>Topics</span></a>                        <ul>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=18&page=&tag=&start_date=&end_date=" target="">Children</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=24&page=&tag=&start_date=&end_date=" target="">Education</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=6&page=&tag=&start_date=&end_date=" target="">Health</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=5&page=&tag=&start_date=&end_date=" target="">Family & Home</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=20&page=&tag=&start_date=&end_date=" target="">Parenting</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=22&page=&tag=&start_date=&end_date=" target="">Recipes</a>                                        </li>
+                                <li class="">
+                            <a  href="/community/blogs">Browse All Topics</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class=" main_sub_content">
+                <a  href="/community/classifieds"><span>Giveaways</span></a>                        <ul>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/forums/43/bloggers-signup-to-sponsor-givea" target="">Blogger Opportunities</a>                                        </li>
+                                <li class="">
+                            <a  href="/community/classifieds">Browse Giveaways</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class="">
+                <a  href="/community/chat"><span>Chat</span></a>                    </li>
+        
+    <li class=" main_sub_content">
+                <a  href="/community/forums"><span>Forum</span></a>                        <ul>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/recent-forum" target="">Recent Posts</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class=" main_sub_content">
+                <a  href="/community/events"><span>Events</span></a>                        <ul>
+                                <li class="">
+                            <a  href="/community/events/upcoming">Upcoming Events</a>                                        </li>
+                                <li class="">
+                            <a  href="/community/events/past">Past Events</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class=" main_sub_content">
+                <a  href="/community/groups"><span>Groups</span></a>                        <ul>
+                                <li class="">
+                            <a  href="/community/groups">Browse Groups</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/groups?category_id=&view=&order=member_count+DESC" target="">Most Popular</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/listgroups" target="">List of Groups</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class=" main_sub_content">
+                <a href="http://www.voiceboks.com/community/pages/faqs" target="">FAQs</a>                        <ul>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/online-traffic-guide" target="">Online Traffic Guide</a>                                        </li>
+                                <li class="sub_icon">
+                            <a href="http://www.wikimommy.com/Portal:Blogosphere/SocialMedia" target="_blank">Social Media</a>                                                            <ul>
+                                                                    <li>
+                                        <a href="http://www.wikimommy.com/Category:Google_Plus" target="_blank">Google Plus</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.wikimommy.com/Category:Facebook" target="_blank">Facebook</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.wikimommy.com/Category:Twitter" target="_blank">Twitter</a>                                    </li>
+                                                                    <li>
+                                        <a href="http://www.wikimommy.com/Category:More_Social_Media_Articles" target="_blank">General</a>                                    </li>
+                                                                </ul>
+                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/how-activity-points-work" target="">Activity Points</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/beginners-guide" target="">Beginner's Guide</a>                                        </li>
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/faqs" target="">FAQs</a>                                        </li>
+                            </ul>
+                </li>
+        
+    <li class=" main_sub_content">
+                <a href="http://www.voiceboks.com/community/pages/media" target="">Media</a>                        <ul>
+                                <li class="sub_icon">
+                            <a  href="/community/albums">Albums</a>                                                            <ul>
+                                                                    <li>
+                                        <a  href="/community/albums">Browse Albums</a>                                    </li>
+                                                                </ul>
+                                        </li>
+                                <li class="sub_icon">
+                            <a  href="/community/music">Music</a>                                                            <ul>
+                                                                    <li>
+                                        <a  href="/community/music">Browse Music</a>                                    </li>
+                                                                </ul>
+                                        </li>
+                                <li class="sub_icon">
+                            <a  href="/community/videos">Videos</a>                                                            <ul>
+                                                                    <li>
+                                        <a  href="/community/videos">Browse Videos</a>                                    </li>
+                                                                </ul>
+                                        </li>
+                            </ul>
+                </li>
+    </ul>
+<div class="headline">
+    <div class="tabs">
+        <ul class="navigation" id="navigation_click">
+        
+        
+               <!-- code --> 
+                                <li class="">
+                            <a href="http://www.voiceboks.com/community/pages/An-Online-Community-and-Social-Network-for-Moms" target="">Testimonials</a>                                                        
+
+            </li>
+                            </ul>
+    </div>
+</div>
+<script language="javascript" type="text/javascript">
+    window.addEvent('domready', function() {
+        var headline =  $$('#global_content .headline .tabs ul.navigation');
+        if(headline && headline[0] && headline[0].getParent() && headline[0].getParent().getParent()){
+            headline[0].getParent().getParent().style.display = 'none';
+        }
+    });
+
+</script>
+
+    </div>
+
+</div>
+
+<div class="generic_layout_container layout_socialengineaddon_socialengineaddones_lightbox"><div class='photo_lightbox' id='socialengineaddon_photo_lightbox' style='display: none;'>
+<style type="text/css">
+  .socialengineaddon_lightbox_image_content {background:#000000;}
+  .socialengineaddon_lightbox_user_options{background:#000000;}
+  .socialengineaddon_lightbox_user_right_options{background:#000000;}
+  .socialengineaddon_lightbox_photo_detail{background:#000000;}
+  .socialengineaddon_lightbox_user_options a,
+  .socialengineaddon_lightbox_photo_detail,
+  .socialengineaddon_lightbox_photo_detail a{color:#FFFFFF;}
+</style>
+  <input type='hidden' id='canReloadSocialengineaddon' value='0' />
+  <div class='photo_lightbox_black_overlay'></div>  
+  <div class='photo_lightbox_white_content_wrapper' onclick = 'closeSEALightBoxAlbum()'>
+    <div class='photo_lightbox_white_content' id='white_content_default_sea_lightbox'>
+      <div class='photo_lightbox_options'>
+        <a onclick = 'closeSEALightBoxAlbum();' class='close' title='Close' ></a>
+      </div>
+      <div id='image_div_sea_lightbox'>
+        <div class='photo_lightbox_image_content album_viewmedia_container socialengineaddon_lightbox_image_content' id='media_image_div_socialengineaddon'></div>        
+        <div id='photo_sea_lightbox_user_options'></div>
+        <div class='' id='photo_sea_lightbox_user_right_options'></div>
+        <div class='photo_lightbox_text_content' id='photo_sea_lightbox_text'></div>
+      </div>
+    </div>
+  </div>
+</div></div>
+</div>
+</div>
+  </div>
+  <div id='global_wrapper'>
+    <div id='global_content'>
+            <div class="layout_page_core_index_index">
+<div class="generic_layout_container layout_top">
+<div class="generic_layout_container layout_middle">
+<div class="generic_layout_container layout_core_html_block">
+<a href="http://www.voiceboks.com/community/signup"><img src="http://www.voiceboks.com/community/public/admin/HeadervB2.jpg"></a><br><br></div>
+</div>
+</div>
+
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_right">
+<div class="generic_layout_container layout_user_login_or_signup">
+
+  <h3>
+    Sign In or <a href="/community/signup">Join</a>  </h3>
+
+  <form id="user_form_login" enctype="application/x-www-form-urlencoded" class="global_form_box" action="/community/login" method="post"><div><div><div class="form-elements">
+<div id="email-wrapper" class="form-wrapper"><div id="email-label" class="form-label"><label for="email" class="required">Email Address</label></div>
+<div id="email-element" class="form-element">
+<input type="email" name="email" id="email" value="" tabindex="1" autofocus="autofocus" class="text" /></div></div>
+<div id="password-wrapper" class="form-wrapper"><div id="password-label" class="form-label"><label for="password" class="required">Password</label></div>
+<div id="password-element" class="form-element">
+<input type="password" name="password" id="password" value="" tabindex="2" /></div></div>
+<div class="form-wrapper" id="buttons-wrapper"><fieldset id="fieldset-buttons">
+<div id="submit-wrapper" class="form-wrapper"><div id="submit-label" class="form-label">&nbsp;</div><div id="submit-element" class="form-element">
+<button name="submit" id="submit" type="submit" tabindex="3">Sign In</button></div></div>
+<div id="remember-wrapper" class="form-wrapper"><div class="form-label" id="remember-label">&nbsp;</div>
+<div id="remember-element" class="form-element">
+<input type="hidden" name="remember" value="" /><input type="checkbox" name="remember" id="remember" value="1" tabindex="4" />
+<label for="remember" class="optional">Remember Me</label></div></div></fieldset></div>
+<div id="facebook-wrapper" class="form-wrapper"><div id="facebook-label" class="form-label">&nbsp;</div>
+<div id="facebook-element" class="form-element">
+      <a href="/community/user/auth/facebook">
+        <img src="/community/application/modules/User/externals/images/facebook-sign-in.gif" border="0" alt="Connect with Facebook" />
+      </a>
+    </div></div>
+<div id="twitter-wrapper" class="form-wrapper"><div id="twitter-label" class="form-label">&nbsp;</div>
+<div id="twitter-element" class="form-element">
+      <a href="/community/user/auth/twitter">
+        <img src="/community/application/modules/User/externals/images/twitter-sign-in.png" border="0" alt="Sign-in with Twitter" />
+      </a>
+    </div></div>
+
+<input type="hidden" name="return_url" value="" id="return_url" /></div></div></div></form>
+  
+</div>
+
+<div class="generic_layout_container layout_core_html_block">
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8590470356810968";
+/* Messages sidebar */
+google_ad_slot = "4474827920";
+google_ad_width = 300;
+google_ad_height = 233;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center></div>
+
+<div class="generic_layout_container layout_core_html_block"><h3>Sponsored Giveaways</h3>
+
+<center><a target="_blank" href="http://www.voiceboks.com/community/pages/beesavyipadgiveaway">
+<img src="http://momtobedby8.com/wp-content/uploads/2012/05/BeeSavyiPad3-300x3001.jpg" width="140px" target="_blank"></a></center></div>
+
+<div class="generic_layout_container layout_blog_list_recent_blogs"><h3>This Week's Latest</h3>
+
+<ul class="generic_list_widget">
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/260/2543/diy-beauty-brown-sugar-honey" class="thumb"><img src="/community/public/user/54/06/064e_406f.jpg?c=50c8" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/260/2543/diy-beauty-brown-sugar-honey">DIY Beauty { brown sugar & honey facial scrub}</a>        </div>
+        <div class="stats">
+          <span title="Sun, 22 Jul 2012 18:36:36 -0700" class="timestamp timestamp-update">1 hour ago</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/prototypemama">chene whittington</a>        </div>
+      </div>
+      <div class="description">
+        Hey ya&rsquo;ll &mdash; I&rsquo;m officially back! You missed me? I&rsquo;m sure (wink)
+So anyways&ndash; to start this week off&ndash; I&rsquo;m getting straight&nbsp; into mama&rsquo;s number one concern&mdash; our face! Yea&ndash; we&rsquo;re shallow&ndash; well at least I am&ndash; just kidding...      </div>
+    </li>
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/3481/2542/back-to-reality" class="thumb"><img src="/community/public/user/a7/5d/5d4a_76e2.jpg?c=9d65" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/3481/2542/back-to-reality">Back to reality</a>        </div>
+        <div class="stats">
+          <span title="Sat, 21 Jul 2012 2:35:23 -0700" class="timestamp">Sat at 2:35 AM</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/sunnylady">rhonda booker</a>        </div>
+      </div>
+      <div class="description">
+        Just think,in little over a week my kids will be back! I made it through the summer!I can't wait to see what they look like now! I can't wait to go shopping when they go back to school.I particularly like clothes and shoes shopping! I know&nbsp; they may have to wait until after the first day of sch...      </div>
+    </li>
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/3311/2541/bunkhouse-beans" class="thumb"><img src="/community/public/user/ae/64/644a_d1b2.jpg?c=109c" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/3311/2541/bunkhouse-beans">Bunkhouse Beans</a>        </div>
+        <div class="stats">
+          <span title="Fri, 20 Jul 2012 12:44:42 -0700" class="timestamp">Fri at 12:44 PM</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/sarahsimplyme">Sarah Oneal</a>        </div>
+      </div>
+      <div class="description">
+        bunkhouse beans
+
+Ingredients:
+
+
+1c. salsa
+2/3c. barbecue sauce
+2/3c. brown sugar
+5 hot dogs, halved lengthwise and sliced
+3 T. dried minced onions
+2 cans (16oz. each) pork and beans, drained
+1 can (15 1/2oz.) chili beans, undrained
+1 can (15 oz.) butter or&nbsp;Lima&nbsp;beans,rinsed and...      </div>
+    </li>
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/142/2540/dallas-recap" class="thumb"><img src="/community/public/user/0d/03/030a_6925.jpg?c=4bd3" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/142/2540/dallas-recap">Dallas Recap</a>        </div>
+        <div class="stats">
+          <span title="Fri, 20 Jul 2012 9:51:50 -0700" class="timestamp">Fri at 9:51 AM</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/BethAnne">Beth Sanborn</a>        </div>
+      </div>
+      <div class="description">
+        Christopher was the winner of Rise to Power last week. &nbsp;I'm not so sure I understand why, however, as you will see in the recap below. &nbsp;I'm not sure that anyone fared well in this last episode, actually! &nbsp;But I do think I'll pick Rebecca for next week. &nbsp;She's got a leg up, ahem. ...      </div>
+    </li>
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/1922/2539/life-as-we-know-it" class="thumb"><img src="/community/public/user/82/2a/2a58_073f.JPG?c=4227" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/1922/2539/life-as-we-know-it">Life As We Know It</a>        </div>
+        <div class="stats">
+          <span title="Fri, 20 Jul 2012 7:56:19 -0700" class="timestamp">Fri at 7:56 AM</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/abmax07">Abigail  Maxwell</a>        </div>
+      </div>
+      <div class="description">
+        Situations like the recent&nbsp;massacre in Colorado make me wonder what I was thinking by bringing kids into a screwed up world. I'm not trying to make light of the tragedy (my prayers go out for those poor people and their families) but it's not like this is the first time that evil has reared its...      </div>
+    </li>
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/698/2538/losing-my-religion" class="thumb"><img src="/community/public/user/7e/0b/0b73_4533.jpg?c=b9c3" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/698/2538/losing-my-religion">Losing My Religion</a>        </div>
+        <div class="stats">
+          <span title="Fri, 20 Jul 2012 2:32:29 -0700" class="timestamp">Fri at 2:32 AM</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/Nurturedbeauty">Jacqueline Schriewer Rizk</a>        </div>
+      </div>
+      <div class="description">
+        "Losing my religion" got your attention, eh? Everyone that reads my blog knows that I live much of the year in the Middle East. &nbsp;This has been a challenge at times but most of the time, coexisting in a completely different culture has been eye opening and, at worst, a learning experience; at be...      </div>
+    </li>
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/3908/2537/easing-my-swimsuit-pain" class="thumb"><img src="/community/public/user/b4/44/4470_b7af.JPG?c=d778" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/3908/2537/easing-my-swimsuit-pain">Easing My Swimsuit Pain</a>        </div>
+        <div class="stats">
+          <span title="Thu, 19 Jul 2012 12:25:22 -0700" class="timestamp">Thu at 12:25 PM</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/3908">Lorraine French</a>        </div>
+      </div>
+      <div class="description">
+        Summer time means water time. Despite the fact that I can not swim, I want like millions of others want to get in the water.&nbsp; I The problem is I don&rsquo;t want to get in half naked wearing&nbsp; a swimsuit that doesn&rsquo;t hide enough of my scary parts. If only there were one which highligh...      </div>
+    </li>
+      <li>
+      <div class="photo">
+        <a  href="/community/blogs/3330/2536/http-www-familiesgotravel-com" class="thumb"><img src="/community/public/user/73/2c/2c47_4d7e.jpg?c=8d25" alt="" class="thumb_icon item_photo_user  thumb_icon" /></a>      </div>
+      <div class="info">
+        <div class="title">
+          <a  href="/community/blogs/3330/2536/http-www-familiesgotravel-com">http://www.familiesgotravel.com/blog/</a>        </div>
+        <div class="stats">
+          <span title="Thu, 19 Jul 2012 10:28:56 -0700" class="timestamp">Thu at 10:28 AM</span>        </div>
+        <div class="owner">
+          Posted by <a  href="/community/profile/FamiliesGo">eileen gunn</a>        </div>
+      </div>
+      <div class="description">
+        
+By Andrea Barrett
+
+Californians take Sonoma Valley&rsquo;s wine country for granted for romantic sojourns and girlfriend getaways. But it&rsquo;s also one of my favorite destinations with my 2-year-old son. It&rsquo;s one of those places where it&rsquo;s possible to find activities that keep par...      </div>
+    </li>
+  </ul></div>
+
+<div class="generic_layout_container layout_core_ad_campaign"><h3>Featured Blog</h3>
+
+<script type="text/javascript">
+  en4.core.runonce.add(function() {
+    var url = '/community/utility/advertisement';
+    var processClick = window.processClick = function(adcampaign_id, ad_id) {
+      (new Request.JSON({
+        'format': 'json',
+        'url' : url,
+        'data' : {
+          'format' : 'json',
+          'adcampaign_id' : adcampaign_id,
+          'ad_id' : ad_id
+        }
+      })).send();
+    }
+  });
+</script>
+
+<div onclick="javascript:processClick(15, 17)">
+  <center><a href=" "><img src="http://www.voiceboks.com/community/public/admin/GoingCrazy 300x250.jpg"></a></center></div>
+</div>
+</div>
+
+<div class="generic_layout_container layout_middle">
+<div class="generic_layout_container layout_core_html_block">
+<right><table><tr>
+
+<th><a href="https://twitter.com/vB_Mama" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @vB_Mama</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></th>
+
+<th>&nbsp </th>
+
+<th><div class="fb-like" data-href="http://www.facebook.com/voiceBoksFanpage" data-send="false" data-width="230" data-show-faces="false"></div></th>
+
+<th>&nbsp </th><th><!-- Place this tag where you want the su badge to render -->
+<su:badge layout="1"></su:badge>
+
+<!-- Place this snippet wherever appropriate --> 
+ <script type="text/javascript"> 
+ (function() { 
+     var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true; 
+      li.src = 'https://platform.stumbleupon.com/1/widgets.js'; 
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s); 
+ })(); 
+ </script>
+</th>
+
+<th>&nbsp </th>
+
+<th><!-- Place this tag in the <head> of your document -->
+<link href="https://plus.google.com/109185279710469176498" rel="publisher" /><script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
+
+<!-- Place this tag where you want the badge to render -->
+<g:plus href="https://plus.google.com/109185279710469176498" width="300" height="69" theme="light"></g:plus></th></tr></table></right></div>
+
+<div class="generic_layout_container layout_siteslideshow_slideshow_siteslideshows">
+<script type="text/javascript">
+	var url_base = '/community';
+</script>
+
+
+	
+	<style type="text/css">
+.slideshow-thumbnails{
+	width:722px;
+}
+.slideshow-thumbnails ul {
+	background: #ffffff;
+}
+.slideshow-thumbnails-active {
+	background-color: #DDDDDD;
+	opacity: 1;
+}
+.slideshow-thumbnails-inactive {
+	background-color: 	#E9F4FA;
+	opacity: .5;
+}
+.slideshow-thumbnails img {
+	width: 170px;
+}
+</style>
+	
+	<script src="application/modules/Siteslideshow/externals/scripts/slideshow.js" type="text/javascript"></script>
+
+			<script type="text/javascript">		
+			//<![CDATA[
+				window.addEvent('domready', function(){
+					var data = {
+						'17934.jpg':{caption:'<p><span style="color: #ffffff; font-size: x-large; font-family: book antiqua,palatino;">Blogger Opportunities to Increase Social Media Exposure</span></p>', href:'http://www.voiceboks.com/community/forums/43/bloggers-signup-to-sponsor-givea'  },'16679.jpg':{caption:'<p><span style="font-family: book antiqua,palatino; font-size: x-large; color: #ffffff;">From Solo Artist to Social Media Sensation</span></p><p>&nbsp;</p>', href:'http://southernwritersmagazine.blogspot.com/2012/03/from-solo-artist-to-social-media.html'  },'16419.jpg':{caption:'<p><span style="color: #ffffff; font-family: book antiqua,palatino; font-size: x-large;">Parents Remembering Other Parents</span></p>', href:'http://www.voiceboks.com/community/group/203'  },'16417.jpg':{caption:'<p><span style="font-size: x-large; font-family: book antiqua,palatino; color: #ffffff;">Get Your Expertise Noticed. Create Relevant Backlinks from the Mommyhood Information Resource.</span></p>',  href:'http://www.wikimommie.com/' }					};
+					var myShow = new Slideshow('id_siteslideshow', data, { slide: 0, captions: true, controller: true, delay: 2500, duration: 750, height: 250, hu: '/community/public/siteslideshow/1000000/1000/5/', thumbnails: false, width: 722, titles: true, random: false });
+				});
+			//]]>
+		</script>
+			
+		
+
+	<style type="text/css">
+					.slideshow-captions{background: #000000;bottom: 65px;width:702px;}		
+			.slideshow-thums-off .slideshow-captions{bottom:0;}
+			
+	</style>
+
+			<div id="id_siteslideshow" class="slideshow slideshow-thums-off">
+												<span style="display:none;"><a href="" target="_self"></a></span>
+									</div>
+	</div>
+
+<div class="generic_layout_container layout_list_recently_popular_random_list"><h3>Sponsored Listings</h3>
+
+<script type="text/javascript">
+var url = '/community/listingitems/listhomelist';
+</script>
+
+<div class="layout_core_container_tabs">
+<div class="tabs_alt tabs_parent">
+  <ul id="main_tabs">
+                  <li class = 'active' id = 'list_home_page_tab1' >
+      	      	        <a href='javascript:void(0);'  onclick="showListListing('Recently Posted')">Recent</a>
+	           </li>
+                    <li class = '' id = 'list_home_page_tab2' >
+                       <a href='javascript:void(0);' onclick="showListListing('Most Viewed')"> Most Popular</a>
+            </li>
+                    <li class = '' id = 'list_home_page_tab3' >
+                        <a href='javascript:void(0);' onclick="showListListing('Random')"> Random</a>
+             </li>
+                      <li class = '' id = 'list_home_page_tab4' >
+                        <a href='javascript:void(0);' onclick="showListListing('Featured')"> Featured</a>
+             </li>
+                      <li class = '' id = 'list_home_page_tab5' >
+                        <a href='javascript:void(0);' onclick="showListListing('Sponosred')"> Sponsored</a>
+             </li>
+          </ul>
+</div>
+<div id="dynamic_app_info">
+<div id="rimage_view" style="display: none;">
+		
+	  		<div class="list_img_view">
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/8326/447/i-won-t-miss-my-chance-for-one-l">
+				      				      	<span style="background-image: url(/community/public/list_listing/0a/6f/6e9b_2cbc.jpg?c=68df);"></span>
+				      </a>
+              	<a  href="/community/listingitems/8326/447/i-won-t-miss-my-chance-for-one-l">I won't miss my chan...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/8326/447/i-won-t-miss-my-chance-for-one-l">I won't miss my chance for one last dance with Elise</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 22 Jul 2012 18:49:55 -0700" class="timestamp timestamp-update">1 hour ago</span> - posted by                        <a  href="/community/profile/coachdaddy">Eli Pacheco</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        0 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Charlotte, NC </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/8049/446/teach-beside-me">
+				      				      	<span style="background-image: url(/community/public/list_listing/e3/6d/6d76_e7d5.png?c=cb36);"></span>
+				      </a>
+              	<a  href="/community/listingitems/8049/446/teach-beside-me">Teach Beside Me</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/8049/446/teach-beside-me">Teach Beside Me</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Tue, 17 Jul 2012 12:55:04 -0700" class="timestamp">Tue at 12:55 PM</span> - posted by                        <a  href="/community/profile/karyntripp">Karyn Tripp</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        14 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Utah </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/8051/445/girlfriends-are-like-shoes">
+				      				      	<span style="background-image: url(/community/public/list_listing/dc/6d/6d6f_23a1.jpg?c=cf86);"></span>
+				      </a>
+              	<a  href="/community/listingitems/8051/445/girlfriends-are-like-shoes">Girlfriends Are Like...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/8051/445/girlfriends-are-like-shoes">Girlfriends Are Like Shoes</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Tue, 17 Jul 2012 10:43:18 -0700" class="timestamp">Tue at 10:43 AM</span> - posted by                        <a  href="/community/profile/GirlfriendShoes">Ruby Smith</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	1 comment,
+								        20 views,
+                           1 like									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Northern Ontario, Canada </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7223/444/i-know-my-mom-taught-me">
+				      				      	<span style="background-image: url(/community/public/list_listing/7d/6d/6d10_19d0.jpg?c=fbb8);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7223/444/i-know-my-mom-taught-me">I know my Mom taught me</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7223/444/i-know-my-mom-taught-me">I know my Mom taught me</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 15 Jul 2012 17:53:53 -0700" class="timestamp">July 15</span> - posted by                        <a  href="/community/profile/Laboroflovect">Coretta Owen</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        18 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> CT </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7223/443/one-of-those-days">
+				      				      	<span style="background-image: url(/community/public/list_listing/0d/6d/6ca0_19d0.jpg?c=fbb8);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7223/443/one-of-those-days">One of those days</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7223/443/one-of-those-days">One of those days</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Fri, 13 Jul 2012 12:12:51 -0700" class="timestamp">July 13</span> - posted by                        <a  href="/community/profile/Laboroflovect">Coretta Owen</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        26 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> CT </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7223/442/summer-loving">
+				      				      	<span style="background-image: url(/community/public/list_listing/ca/6c/6c5e_19d0.jpg?c=fbb8);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7223/442/summer-loving">Summer Loving</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7223/442/summer-loving">Summer Loving</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Thu, 12 Jul 2012 12:43:51 -0700" class="timestamp">July 12</span> - posted by                        <a  href="/community/profile/Laboroflovect">Coretta Owen</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        32 views,
+                           1 like									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> CT </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7290/441/p-o-v">
+				      				      	<span style="background-image: url(/community/public/list_listing/b2/6c/6c46_1904.jpg?c=c801);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7290/441/p-o-v">P.O.V.</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7290/441/p-o-v">P.O.V.</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Wed, 11 Jul 2012 16:53:44 -0700" class="timestamp">July 11</span> - posted by                        <a  href="/community/profile/MelinaDruga">Melina Druga</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        449 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> United States </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7290/440/frazzled-fran">
+				      				      	<span style="background-image: url(/community/public/list_listing/ae/6c/6c42_c864.PNG?c=02ce);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7290/440/frazzled-fran">Frazzled Fran</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7290/440/frazzled-fran">Frazzled Fran</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Wed, 11 Jul 2012 16:44:16 -0700" class="timestamp">July 11</span> - posted by                        <a  href="/community/profile/MelinaDruga">Melina Druga</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        43 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> United States </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7290/439/p-o-v">
+				      				      	<span style="background-image: url(/community/public/list_listing/aa/6c/6c3e_1904.jpg?c=c801);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7290/439/p-o-v">P.O.V.</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7290/439/p-o-v">P.O.V.</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Wed, 11 Jul 2012 16:35:50 -0700" class="timestamp">July 11</span> - posted by                        <a  href="/community/profile/MelinaDruga">Melina Druga</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        48 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> United States </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7243/438/faith-and-family-reviews">
+				      				      	<span style="background-image: url(/community/public/list_listing/9f/6c/6c33_20a9.png?c=08f1);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7243/438/faith-and-family-reviews">Faith and Family Rev...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7243/438/faith-and-family-reviews">Faith and Family Reviews</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Wed, 11 Jul 2012 11:20:04 -0700" class="timestamp">July 11</span> - posted by                        <a  href="/community/profile/FaithandFamilyRevws">Theresa Gould</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        27 views,
+                           1 like									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Chicago, IL </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7793/437/kids-can-t-learn-coping-skills-i">
+				      				      	<span style="background-image: url(/community/public/list_listing/ad/6b/6b42_e353.JPG?c=b613);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7793/437/kids-can-t-learn-coping-skills-i">Kids Can’t Learn Cop...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7793/437/kids-can-t-learn-coping-skills-i">Kids Can’t Learn Coping Skills If They Never Have to Cope With Anything</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 8 Jul 2012 11:54:39 -0700" class="timestamp">July 8</span> - posted by                        <a  href="/community/profile/doyourjobblog">Jesse Cruz</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        287 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Cleveland, Ohio </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7793/436/manipulating-your-child-s-peer-g">
+				      				      	<span style="background-image: url(/community/public/list_listing/a8/6b/6b3d_ef84.PNG?c=230c);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7793/436/manipulating-your-child-s-peer-g">Manipulating Your Ch...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7793/436/manipulating-your-child-s-peer-g">Manipulating Your Child’s Peer Group or: Don’t Play With That Kid, He’s Weird</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 8 Jul 2012 11:52:39 -0700" class="timestamp">July 8</span> - posted by                        <a  href="/community/profile/doyourjobblog">Jesse Cruz</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        51 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Cleveland, Ohio </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7793/435/the-price-of-privilege-or-why-gi">
+				      				      	<span style="background-image: url(/community/public/list_listing/a4/6b/6b39_91f8.JPG?c=e644);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7793/435/the-price-of-privilege-or-why-gi">The Price of Privile...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7793/435/the-price-of-privilege-or-why-gi">The Price of Privilege or Why Giving Your Kids Everything Is Making Them Kooky</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 8 Jul 2012 11:49:13 -0700" class="timestamp">July 8</span> - posted by                        <a  href="/community/profile/doyourjobblog">Jesse Cruz</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        215 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Cleveland, Ohio </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7793/434/parenting-may-cost-you-friendshi">
+				      				      	<span style="background-image: url(/community/public/list_listing/a0/6b/6b35_aabf.JPG?c=57e3);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7793/434/parenting-may-cost-you-friendshi">Parenting May Cost Y...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7793/434/parenting-may-cost-you-friendshi">Parenting May Cost You Friendships OR Circle the Wagons – This is Really Hard!</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 8 Jul 2012 11:47:28 -0700" class="timestamp">July 8</span> - posted by                        <a  href="/community/profile/doyourjobblog">Jesse Cruz</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        242 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Cleveland, Ohio </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7793/433/full-disclosure-a-note-to-my-gi">
+				      				      	<span style="background-image: url(/community/public/list_listing/9c/6b/6b31_fcd9.jpg?c=13d5);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7793/433/full-disclosure-a-note-to-my-gi">Full Disclosure: A n...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7793/433/full-disclosure-a-note-to-my-gi">Full Disclosure: A note to my girlfriends</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 8 Jul 2012 11:45:16 -0700" class="timestamp">July 8</span> - posted by                        <a  href="/community/profile/doyourjobblog">Jesse Cruz</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        42 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Cleveland, Ohio </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7793/432/a-modern-woman-s-apology">
+				      				      	<span style="background-image: url(/community/public/list_listing/98/6b/6b2d_f389.PNG?c=6687);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7793/432/a-modern-woman-s-apology">A Modern Woman’s Apo...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7793/432/a-modern-woman-s-apology">A Modern Woman’s Apology</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 8 Jul 2012 11:43:10 -0700" class="timestamp">July 8</span> - posted by                        <a  href="/community/profile/doyourjobblog">Jesse Cruz</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        43 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Cleveland, Ohio </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7793/431/my-child-a-bully-inconceivable">
+				      				      	<span style="background-image: url(/community/public/list_listing/94/6b/6b29_1443.JPG?c=6af4);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7793/431/my-child-a-bully-inconceivable">MY child a bully? In...</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7793/431/my-child-a-bully-inconceivable">MY child a bully? Inconceivable</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Sun, 8 Jul 2012 11:40:36 -0700" class="timestamp">July 8</span> - posted by                        <a  href="/community/profile/doyourjobblog">Jesse Cruz</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        49 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Cleveland Ohio </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7726/430/summer-scraps">
+				      				      	<span style="background-image: url(/community/public/list_listing/6e/6b/6b03_d6bc.png?c=d6f6);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7726/430/summer-scraps">Summer Scraps</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7726/430/summer-scraps">Summer Scraps</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Fri, 6 Jul 2012 20:37:41 -0700" class="timestamp">July 6</span> - posted by                        <a  href="/community/profile/SummerRumsey">Summer Rumsey</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        44 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Salt Lake City, UT </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7223/429/flying-solo">
+				      				      	<span style="background-image: url(/community/public/list_listing/28/6b/6abd_19d0.jpg?c=fbb8);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7223/429/flying-solo">Flying Solo</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7223/429/flying-solo">Flying Solo</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Fri, 6 Jul 2012 8:06:43 -0700" class="timestamp">July 6</span> - posted by                        <a  href="/community/profile/Laboroflovect">Coretta Owen</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        34 views,
+                           1 like									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> CT </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/698/428/the-detox-diva">
+				      				      	<span style="background-image: url(/community/public/list_listing/cf/6a/6a65_a5b1.png?c=4931);"></span>
+				      </a>
+              	<a  href="/community/listingitems/698/428/the-detox-diva">The Detox Diva</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/698/428/the-detox-diva">The Detox Diva</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Wed, 4 Jul 2012 12:07:34 -0700" class="timestamp">July 4</span> - posted by                        <a  href="/community/profile/Nurturedbeauty">Jacqueline Schriewer Rizk</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        42 views,
+                           1 like									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> International </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/698/427/the-blissful-beet">
+				      				      	<span style="background-image: url(/community/public/list_listing/cb/6a/6a61_cd43.png?c=9eaa);"></span>
+				      </a>
+              	<a  href="/community/listingitems/698/427/the-blissful-beet">The Blissful Beet</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/698/427/the-blissful-beet">The Blissful Beet</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Wed, 4 Jul 2012 12:05:25 -0700" class="timestamp">July 4</span> - posted by                        <a  href="/community/profile/Nurturedbeauty">Jacqueline Schriewer Rizk</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        46 views,
+                           1 like									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> International </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7407/426/the-ease-of-freeze">
+				      				      	<span style="background-image: url(/community/public/list_listing/3a/6d/6ccd_7b35.jpg?c=8bed);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7407/426/the-ease-of-freeze">The Ease of Freeze</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7407/426/the-ease-of-freeze">The Ease of Freeze</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Fri, 29 Jun 2012 15:09:21 -0700" class="timestamp">June 29</span> - posted by                        <a  href="/community/profile/freezerfriend">Sarah Carletti</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        80 views,
+                           3 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Pa </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/7223/425/researching-away">
+				      				      	<span style="background-image: url(/community/public/list_listing/e5/68/687d_19d0.jpg?c=fbb8);"></span>
+				      </a>
+              	<a  href="/community/listingitems/7223/425/researching-away">Researching away!</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/7223/425/researching-away">Researching away!</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Tue, 26 Jun 2012 19:06:47 -0700" class="timestamp">June 26</span> - posted by                        <a  href="/community/profile/Laboroflovect">Coretta Owen</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        88 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> CT </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+			        				<div class="list_thumb" >
+					<ul class="jq-list_tooltip">
+						<li>
+				      <a href="/community/listingitems/591/424/mom-s-ups-and-downs">
+				      				      	<span style="background-image: url(/community/public/list_listing/b0/68/6848_ce32.jpg?c=b7d3);"></span>
+				      </a>
+              	<a  href="/community/listingitems/591/424/mom-s-ups-and-downs">Mom's Ups and Downs</a>				    	<div class="list_tooltip">
+								<div class="list_tooltip_content_outer">
+									<div class="list_tooltip_content_inner">
+										<div class="list_tooltip_arrow">
+											<img src='application/modules/List/externals/images/tooltip_arrow.png' alt="" />
+										</div>
+				    		  	<div class='lists_tooltip_info'>
+				    					<div class="title">
+				          			<a  href="/community/listingitems/591/424/mom-s-ups-and-downs">Mom's Ups and Downs</a>						            <span>
+							            						            </span>
+						             <span>
+							            						            </span>
+				        			</div>
+				          													<div class='lists_tooltip_info_date clear'>
+								      	<span title="Tue, 26 Jun 2012 5:27:50 -0700" class="timestamp">June 26</span> - posted by                        <a  href="/community/profile/rossel">Rossel Dacio</a>            	        </div>
+								      <div class='lists_tooltip_info_date'>
+								      	0 comments,
+								        99 views,
+                           0 likes									    </div>
+                                            <div class='lists_tooltip_info_blurb'>
+                       <i> Philippines </i>
+                      </div>
+                     										</div>
+				      		</div>
+								</div>
+				      </div>
+		      	</li>
+		      </ul>
+			  </div>
+					</div>
+	</div>
+<div id="rmap_canvas_view" style="display: none;">
+  <div id="rmap_canvas" class="list_rmap_canvas"> </div>
+    </div>
+
+
+ </div>
+</div>
+
+
+
+<script type="text/javascript" >
+	function rswitchview(flage){
+	if(flage==2){
+      if($('rmap_canvas_view')){
+			$('rmap_canvas_view').style.display='block';
+			google.maps.event.trigger(rmap, 'resize');
+			rmap.setZoom( 1);
+			rmap.setCenter(new google.maps.LatLng(0,0));
+      }
+			if($('rgrid_view'))
+      $('rgrid_view').style.display='none';
+     if($('rimage_view'))
+		$('rimage_view').style.display='none';
+		}else if(flage==1){
+     if($('rmap_canvas_view'))
+		$('rmap_canvas_view').style.display='none';
+    if($('rgrid_view'))
+		$('rgrid_view').style.display='none';
+    if($('rimage_view'))
+		$('rimage_view').style.display='block';
+		}else{
+    if($('rmap_canvas_view'))
+		$('rmap_canvas_view').style.display='none';
+    if($('rgrid_view'))
+		$('rgrid_view').style.display='block';
+    if($('rimage_view'))
+		$('rimage_view').style.display='none';
+		}
+	}
+</script>
+<script type="text/javascript">
+
+/* moo style */
+window.addEvent('domready',function() {
+	if($('rimage_view')){
+  showtooltip();
+  }
+  
+   
+ rswitchview(1);
+
+    $$('.tab_layout_list_recently_popular_random_list').addEvent('click', function() {
+      
+    	google.maps.event.trigger(rmap, 'resize');
+    	rmap.setZoom( 1);
+			rmap.setCenter(new google.maps.LatLng(0,0));    
+    });
+
+});
+
+var showtooltip = function (){
+ 
+  //opacity / display fix
+	$$('.list_tooltip').setStyles({
+		opacity: 0,
+		display: 'block'
+	});
+	//put the effect in place
+	$$('.jq-list_tooltip li').each(function(el,i) {
+		el.addEvents({
+			'mouseenter': function() {
+				el.getElement('div').fade('in');
+			},
+			'mouseleave': function() {
+				el.getElement('div').fade('out');
+			}
+		});
+	});
+  
+}
+</script>
+
+<script type="text/javascript">
+
+   var showListListing = function (tabshow) {
+
+    if (tabshow == "Recently Posted") {
+      if($('list_home_page_tab2'))
+        $('list_home_page_tab2').erase('class');
+      if($('list_home_page_tab3'))
+        $('list_home_page_tab3').erase('class');
+       if($('list_home_page_tab4'))
+        $('list_home_page_tab4').erase('class');
+        if($('list_home_page_tab5'))
+        $('list_home_page_tab5').erase('class');
+      if($('list_home_page_tab1'))
+        $('list_home_page_tab1').set('class', 'active');
+
+    }
+    else if (tabshow == "Most Viewed") {
+      if($('list_home_page_tab1'))
+        $('list_home_page_tab1').erase('class');
+      if($('list_home_page_tab3'))
+        $('list_home_page_tab3').erase('class');
+       if($('list_home_page_tab4'))
+        $('list_home_page_tab4').erase('class');
+        if($('list_home_page_tab5'))
+        $('list_home_page_tab5').erase('class');
+      if($('list_home_page_tab2'))
+        $('list_home_page_tab2').set('class', 'active');
+
+    }
+
+    else if(tabshow == "Random") {
+      if($('list_home_page_tab1'))
+        $('list_home_page_tab1').erase('class');
+      if($('list_home_page_tab2'))
+        $('list_home_page_tab2').erase('class');
+       if($('list_home_page_tab4'))
+        $('list_home_page_tab4').erase('class');
+        if($('list_home_page_tab5'))
+        $('list_home_page_tab5').erase('class');
+      if($('list_home_page_tab3'))
+        $('list_home_page_tab3').set('class', 'active');
+
+
+    }else if(tabshow == "Featured") {
+      if($('list_home_page_tab1'))
+        $('list_home_page_tab1').erase('class');
+      if($('list_home_page_tab2'))
+        $('list_home_page_tab2').erase('class');
+       if($('list_home_page_tab3'))
+        $('list_home_page_tab3').erase('class');
+        if($('list_home_page_tab5'))
+        $('list_home_page_tab5').erase('class');
+      if($('list_home_page_tab4'))
+        $('list_home_page_tab4').set('class', 'active');
+
+    }else if(tabshow == "Sponosred") {
+      if($('list_home_page_tab1'))
+        $('list_home_page_tab1').erase('class');
+      if($('list_home_page_tab2'))
+        $('list_home_page_tab2').erase('class');
+       if($('list_home_page_tab3'))
+        $('list_home_page_tab3').erase('class');
+        if($('list_home_page_tab4'))
+        $('list_home_page_tab4').erase('class');
+      if($('list_home_page_tab5'))
+        $('list_home_page_tab5').set('class', 'active');
+
+    }
+
+
+   if($('dynamic_app_info') != null) {
+
+      $('dynamic_app_info').innerHTML = '<center><img src="application/modules/List/externals/images/loader.gif" /></center>';
+    }
+
+    var request = new Request.HTML({
+      'url' : url,
+      'data' : {
+        'format' : 'html',
+        'task' : 'ajax',
+        'tab_show' : tabshow
+
+      },
+      onSuccess : function(responseTree, responseElements, responseHTML, responseJavaScript) {
+        $('dynamic_app_info').innerHTML = responseHTML;
+
+        showtooltip();
+                rswitchview(1);
+      }
+    });
+
+    request.send();
+  }
+</script></div>
+
+<div class="generic_layout_container layout_core_html_block"><h3>Follow Us</h3>
+
+<br><center><table><tr><th><script type="text/javascript"><!--
+google_ad_client = "pub-8590470356810968";
+/* 336x280, created 7/13/11 */
+google_ad_slot = "0831687410";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></th><th>&nbsp </th><th></th><th>&nbsp </th><th><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like-box" data-href="http://www.facebook.com/pages/VoiceBoks-Fanpage/193989720635082" data-width="365" data-show-faces="true" data-stream="false" data-header="true"></div></th></tr></table></center><br></div>
+
+<div class="generic_layout_container layout_core_html_block"><h3>Moms of "Like" Minds</h3>
+
+<br><BR><center><table><tr>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/53">
+<img src="http://www.voiceboks.com/community/public/group/88/0f/0f79_3c12.jpg?c=55d6" 
+
+height="80px"></a><br><br><a href="http://www.voiceboks.com/community/group/53">Foodie Moms</a></th><th>&nbsp &nbsp &nbsp &nbsp </th>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/52">
+<img src="http://www.voiceboks.com/community/public/group/83/0f/0f74_4e61.jpg?c=7be8" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/52">Frugal Moms</a></th><th>&nbsp 
+
+&nbsp &nbsp &nbsp </th>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/41">
+<img src="http://www.voiceboks.com/community/public/group/5d/0c/0c51_c309.png?c=115f" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/41">Moms of Faith</a></th><th>&nbsp &nbsp &nbsp &nbsp </th>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/42">
+<img src="http://www.voiceboks.com/community/public/group/39/0d/0d2c_e8a3.JPG?c=1204" 
+
+height="80px"></a><br><br><a href="http://www.voiceboks.com/community/group/42">Moms on a Mission</a></th><th>&nbsp 
+
+&nbsp &nbsp &nbsp </th>
+
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/19">
+<img src="http://www.voiceboks.com/community/public/group/f1/04/04ed_085f.jpg?c=eb1d" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/19">Stay-at-Home Moms</a></th><th>&nbsp 
+
+&nbsp &nbsp &nbsp </th>
+
+</tr></table></center>
+
+
+<br><center><table><tr>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/48">
+<img src="http://www.voiceboks.com/community/public/group/b4/0e/0ea6_b019.jpg?c=7022" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/48">Families with a twist</a></th><th>&nbsp 
+
+&nbsp &nbsp &nbsp </th>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/63">
+<img src="http://www.voiceboks.com/community/public/group/5e/16/1648_ef27.JPG?c=f059" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/63">Adoption</a></th><th>&nbsp 
+
+&nbsp &nbsp &nbsp </th>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/58">
+<img src="http://www.voiceboks.com/community/public/group/e4/11/11d3_328d.JPG?c=ad12" 
+
+height="80px"></a><br><br><a href="http://www.voiceboks.com/community/group/58">Joyful Jungle</a></th><th>&nbsp &nbsp &nbsp &nbsp </th>
+
+<th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/8">
+<img src="http://www.voiceboks.com/community/public/group/94/01/0193_cfdd.jpg?c=f274" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/8">Moms of Teens</a></th>
+
+<br><br><center><table><tr><th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/70">
+<img src="http://www.voiceboks.com/community/public/group/71/1e/1e53_4a02.gif?c=c204" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/70">Beauty</a></th><th>&nbsp 
+
+&nbsp &nbsp </th><th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/18">
+<img src="http://www.voiceboks.com/community/public/group/d2/06/06cc_be62.jpg?c=6203" 
+
+height="80px"></a><br><br><a href="http://www.voiceboks.com/community/group/18">Crafty 
+
+& Entrepreneurial Moms</a></th><th>&nbsp &nbsp &nbsp </th><th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/69">
+<img src="http://www.voiceboks.com/community/public/group/3d/1e/1e1f_9c76.jpg?c=47c9" 
+
+height="80px"></a><br><br><a href="http://www.voiceboks.com/community/group/69">Love Stories</a></th><th>&nbsp &nbsp &nbsp </th><th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/66">
+<img src="http://www.voiceboks.com/community/public/group/70/19/1957_c24d.jpeg?c=6dad" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/66">Pinterest Addicts!</a></th><th>&nbsp &nbsp &nbsp </th><th><a target="_blank" 
+
+href="http://www.voiceboks.com/community/group/67">
+<img src="http://www.voiceboks.com/community/public/group/a1/1c/1c85_62a6.jpeg?c=92ce" 
+
+height="80px"></a><br><br><a 
+
+href="http://www.voiceboks.com/community/group/67">Standing for Something</a></th></tr></table></center><br><br></div>
+</div>
+</div>
+</div>
+          </div>
+  </div>
+  <div id="global_footer">
+    <div class="layout_page_footer">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_html_block">
+<table><tr><th>&nbsp &nbsp </th>
+
+<th><a href="http://www.voiceboks.com/community/pages/about"><b>About</b></a>
+<br>
+
+<a href="http://www.voiceboks.com/community/pages/privacy"><b>Privacy Policy</b></a><br>
+
+<a href="http://www.voiceboks.com/community/pages/terms"><b>Terms</b></a>
+<br>
+
+<a href="http://www.voiceboks.com/community/pages/voiceboks-buttons"><b>voiceBoks Badges</b></a><br>
+
+<a href="http://www.voiceboks.com/community/pages/contact"><b>Contact Us</b></a><br>
+
+<a href="http://www.voiceboks.com/community/pages/faqs"><b>FAQs</b></a><br>
+
+<a href="http://www.voiceboks.com/community/pages/advertise"><b>Advertise</b></a><br>
+
+<a 
+
+href="http://www.voiceboks.com/community/pages/statistics"><b>Statistics</b></a><br>
+
+<a href="http://www.voiceboks.com/community/pages/An-Online-Community-and-Social-Network-for-Moms"><b>Testimonials</b></a><br>
+
+
+<a href="http://www.voiceboks.com/community/pages/statistics?mobile=1"><b>Mobile Site</b></a><br>
+
+</th><th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+
+</th><th><b>Blog Types</b><br>
+<a href="http://www.voiceboks.com/community/listingitems/114/Arts-Crafts">Arts/Crafts</a><br>
+<a href="http://www.voiceboks.com/community/listingitems/101/Businesses">Businesses</a><br>
+<a href="http://www.voiceboks.com/community/listingitems/6/Dads">Dads</a>
+<br>
+<a href="http://www.voiceboks.com/community/listingitems/74/Educational">
+Educational</a><br>
+<a href="http://www.voiceboks.com/community/listingitems/35/Foodie-Blog-Site">Foodie</a><br>  
+<a href="http://www.voiceboks.com/community/listingitems/118/Funny">Funny
+</a><br>
+<a href="http://www.voiceboks.com/community/listingitems/117/Money-Savers">Money Savers</a><br>
+<a href="http://www.voiceboks.com/community/listingitems">MORE</a><br></th><th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+
+</th><th><b>Interesting Posts</b><br>
+<a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=18&page=&tag=&start_date=&end_date=">Children</a><br>
+<a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=6&page=&tag=&start_date=&end_date=">Health</a><br>
+<a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=5&page=&tag=&start_date=&end_date=">Family/Home</a><br>
+<a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=20&page=&tag=&start_date=&end_date=">Parenting</a><br>
+<a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=22&page=&tag=&start_date=&end_date=">Recipes</a><br>
+<a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=12&page=&tag=&start_date=&end_date=">Technology</a><br>  
+<a href="http://www.voiceboks.com/community/blogs?search=&orderby=creation_date&show=1&category=21&page=&tag=&start_date=&end_date=">Teens
+</a><br>
+<a href="http://www.voiceboks.com/community/blogs">MOST RECENT</a><br></th><th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+
+</th><th><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8590470356810968";
+/* Footer Link Ads */
+google_ad_slot = "0542688701";
+google_ad_height = 137;
+google_ad_width = 120;
+
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></th><th>&nbsp &nbsp &nbsp </th><th><a href="http://www.webstatsdomain.com/domains/voiceboks.com/#safety_block" title="Reputation for voiceboks.com" target="_blank"><img src="http://www.webstatsdomain.com/img/shield/?domain=voiceboks.com" style="border:none;" alt="Rating for voiceboks.com"/></a></th></tr></table>
+
+
+</div>
+
+<div class="generic_layout_container layout_core_html_block">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23540037-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+
+<div class="generic_layout_container layout_core_html_block">
+Copyright © 2012 voiceBoks &nbsp  - Designs Created by <a href="http://www.mommyblogdesigns.com/" target="_blank">Mommy Blog Designs</a> -</div>
+
+<div class="generic_layout_container layout_core_html_block">
+
+
+<form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-8590470356810968:i1fh83lwtpx" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="150" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+</div>
+</div>
+  </div>
+</body>
+</html>

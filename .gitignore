@@ -12,3 +12,9 @@ logs
 results
 
 npm-debug.log
+
+.idea
+.idea/*
+node_modules
+node_modules/*
+
